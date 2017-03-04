@@ -59,5 +59,6 @@
     "tslint": "^3.15.1",
     "typescript": "~2.0.10"
   },
-  "repository": {}
+  "repository": {},
+  "main": "karma-test-shim.js"
 }
